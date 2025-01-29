@@ -1,8 +1,15 @@
-print("5" + "5")
+nombre = "gabriel"
 
+bienvenida = f"hola {nombre}  como estas?"
 
-"""lucas
-dalto"""
+print("hol" in bienvenida) 
 
+lista = ["lolo", "martin", "pedro", "andres"]
 
-40.2
+print("lolo" in lista)
+
+print(lista[0])
+
+b = 2 % 2
+
+print(b)
